@@ -1,4 +1,4 @@
-//UNION 
+//UNION ( | )
 //combining multiple types that combination of them can be attributed to the variable
 // accepts both set of data
 
